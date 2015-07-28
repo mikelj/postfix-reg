@@ -1,0 +1,3 @@
+[submodule "libs/sparrow"]
+	path = libs/sparrow
+	url = https://github.com/mikecao/sparrow.git
