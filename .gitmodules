@@ -1,3 +1,9 @@
 [submodule "libs/sparrow"]
 	path = libs/sparrow
 	url = https://github.com/mikecao/sparrow.git
+[submodule "libs/php-curl-class"]
+	path = libs/php-curl-class
+	url = https://github.com/php-curl-class/php-curl-class.git
+[submodule "libs/phpmailer"]
+	path = libs/phpmailer
+	url = https://github.com/PHPMailer/PHPMailer.git
